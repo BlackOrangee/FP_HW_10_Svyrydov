@@ -418,7 +418,7 @@ int main()
 				*    Roll    0         0
 				*    Total   0         0
 				*/
-				cout << "\n\n\t\tPlayer 1\tPlayer 2\n\n\tRoll\t" << player_roll << "\t" << player_2_roll << "\n\tTotal\t" << player << "\t" << player_2;
+				cout << "\n\n\t\tPlayer 1\tPlayer 2\n\n\tRoll\t" << player_roll << "\t\t" << player_2_roll << "\n\tTotal\t" << player << "\t\t" << player_2;
 				
 				do
 				{
@@ -500,7 +500,7 @@ int main()
 				*    Roll    0         0
 				*    Total   0         0
 				*/
-				cout << "\n\n\t\tPlayer 1\tPlayer 2\n\n\tRoll\t" << player_roll << "\t" << player_2_roll << "\n\tTotal\t" << player << "\t" << player_2;
+				cout << "\n\n\t\tPlayer 1\tPlayer 2\n\n\tRoll\t" << player_roll << "\t\t" << player_2_roll << "\n\tTotal\t" << player << "\t\t" << player_2;
 
 			}
 			if (player == player_2)	// Messege if draw
